@@ -12,11 +12,15 @@
 
 .ui.centered.left.icon.input {
   margin-top: 20px;
-  margin-left: 340px;
+  margin-left: 250px;
 }
 
 .ui.borderless.bottom.fixed.menu {
   font-family: Arial, sans-serif;
   font-size: 13px;
-  background-color: lightgrey;
+  background-color: gainsboro;
+}
+
+input[type="text"] {
+  width: 387px;
 }
