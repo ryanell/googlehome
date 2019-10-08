@@ -1,0 +1,6 @@
+.ui.borderless.topmenu.menu {
+  font-family: Arial, sans-serif;
+  box-shadow: none;
+  border: none;
+  padding-top: 5px;
+}
