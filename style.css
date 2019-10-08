@@ -17,10 +17,23 @@
 
 .ui.center.button {
   margin-left: 280px;
+  background-color: #F2F2F2;
+}
+
+.ui.button {
+  background-color: #F2F2F2;
 }
 
 input[type="text"] {
   width: 387px;
+}
+.ui.mini.left.floated.image {
+  padding-top: 0px;
+}
+.underthebuttons {
+  margin-top: 40px;
+  font-size: 13px;
+  font-family: Arial, sans-serif;
 }
 
 .ui.borderless.bottom.fixed.menu {
