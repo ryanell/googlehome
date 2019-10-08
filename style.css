@@ -1,6 +1,22 @@
 .ui.borderless.topmenu.menu {
   font-family: Arial, sans-serif;
+  font-size: 13px;
   box-shadow: none;
   border: none;
   padding-top: 5px;
+}
+
+.ui.centered.medium.google.image {
+  margin-top: 170px;
+}
+
+.ui.centered.left.icon.input {
+  margin-top: 20px;
+  margin-left: 340px;
+}
+
+.ui.borderless.bottom.fixed.menu {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  background-color: lightgrey;
 }
